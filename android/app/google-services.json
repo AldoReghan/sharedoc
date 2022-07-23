@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802761638221",
+    "project_id": "sharedoc-51bf1",
+    "storage_bucket": "sharedoc-51bf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802761638221:android:e0f50439f66933415c3704",
+        "android_client_info": {
+          "package_name": "com.dandelion.sharedoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802761638221-7k5pg6jnlvg2e0cau368miv74868vqt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbC1UZVcPiQL5Tke2zy25a2Uj7POiO4Oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802761638221-7k5pg6jnlvg2e0cau368miv74868vqt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
